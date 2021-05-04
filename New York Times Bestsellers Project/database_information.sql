@@ -1,7 +1,0 @@
-select CURRENT_USER();
-
-SHOW GLOBAL VARIABLES LIKE 'PORT';
-
-SELECT * FROM mysql.user;
-
-SHOW VARIABLES LIKE 'secure_file_priv';
